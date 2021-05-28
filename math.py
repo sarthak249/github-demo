@@ -21,3 +21,4 @@ def get_speaker_output_volume():
         
 
 print(12333)
+print("samsung sucks")
